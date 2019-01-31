@@ -1,0 +1,2 @@
+# Dorothy
+Three wheels, autonomous driving vehicle with environmental analysis using LiDAR, whose viewing angle is managed by two servo motors. Vehicle driven by PWM through two DC Brushless motors. Decision on the route to be taken by choosing the first of the available free routes available. roject realized by simulating the interfacing flow with the client commissioner of the work. This is a student project for "Multidisciplinary Laboratory II" course.
